@@ -1,3 +1,3 @@
-export class BaseEntity {
+export abstract class BaseEntity {
     public id:string
 }
